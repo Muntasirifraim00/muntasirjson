@@ -1,0 +1,42 @@
+[
+    {
+        "key": "1",
+        "photo": "https://images.contentstack.io/v3/assets/blt45c082eaf9747747/blt4ecfeaf76a66cf24/5fb7e9ee42256d5ffdf45322/FL_1_Blog-Header-Pics_1232-x-630-V4-lunges.jpg?width=1200&height=630&fit=crop",
+        "name": " Lunges"
+    },
+    {
+        "key": "2",
+        "photo": "http://upl.stack.com/wp-content/uploads/Quickly-Strengthen-Your-Upper-Body-With-Pyramid-Push-Ups.jpg",
+        "name": "Pushups"
+    },
+    {
+        "key": "3",
+        "photo": "https://experiencelife.lifetime.life/wp-content/uploads/2021/02/Squat-1-1280x720.jpg",
+        "name": "Squats"
+    },
+    {
+        "key": "4",
+        "photo": "https://www.muscleandfitness.com/wp-content/uploads/2018/01/1109-single-leg-burpee.jpg?quality=86&strip=all",
+        "name": "Burpees"
+    },
+    {
+        "key": "5",
+        "photo": "https://mesotropin.com/wp-content/uploads/2018/12/dumbbell-row-weights-bench-main.jpg",
+        "name": "Dumbbell rows"
+    },
+    {
+        "key": "6",
+        "photo": "https://cdn2.coachmag.co.uk/sites/coachmag/files/2018/03/one-leg-romanian-deadlift.jpg",
+        "name": "Single-leg deadlifts"
+    },
+    {
+        "key": "7",
+        "photo": "https://cdn.prod.openfit.com/uploads/2018/05/24125234/Open_Fit_Side_Plank_Hip_Lift_770.jpg",
+        "name": "Side planks"
+    },
+    {
+        "key": "8",
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hdm119918mh15842-1545237096.png",
+        "name": "Planks"
+    }
+]
